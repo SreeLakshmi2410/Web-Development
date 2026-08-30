@@ -18,7 +18,7 @@ Files:
 How to view:
  1. Clone the repo: `git clone https://github.com/SreeLakshmi2410/Web-Development.git`
  2. Open `project-1/index.html` in your browser.
-#screenshot
+    
  <img width="408" height="596" alt="project1" src="https://github.com/user-attachments/assets/b72d9881-6b9d-46bc-b9c0-eab2ed65c645" />
 
 # Project-2: Temperature Conversion(html,css,javascript):
@@ -41,7 +41,7 @@ A simple **Temperature Conversion** web application built using **HTML, CSS, and
 
 Enter a temperature value, select the conversion type, and click the **Convert** button to see the result.
 
-##screenshot
+
 <img width="461" height="445" alt="temperature" src="https://github.com/user-attachments/assets/6f120283-9bd5-4e86-a62c-0ef7b794acb7" />
 
 
